@@ -4,7 +4,7 @@ To test environment about mongodb and mysql in the docker and test to connect wi
 # 基礎環境建置
 
 ## 環境前提
- * docker in linux
+ * docker & docker-compose in linux
  * jupyter notebook with python in windows
 ## docker-compose.yml
   * 在linux下: <br>
