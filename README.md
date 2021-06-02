@@ -3,7 +3,7 @@ To test environment about mongodb and mysql in the docker and test to connect wi
 
 # 基礎環境建置
 ## docker-compose.yml
-  * 在linux下:
+  * 在linux下: <bn>
     1.請先建置一個資料夾，我自己是建一個叫env的資料夾，以下將以env資料夾作為範例。
     2.將docker-compose.yml放在env資料夾下
     3.在terminal中輸入docker-compose up -d
@@ -12,7 +12,7 @@ To test environment about mongodb and mysql in the docker and test to connect wi
       ![image](https://user-images.githubusercontent.com/53245830/120437522-bef11e00-c3b2-11eb-90d2-0eceb72e9b2f.png)
   
 ## DB連線測試_Git.ipynb
-  * 在windows下:
+  * 在windows下: ,bn.
     1.打開jupyter notebook以便打開此檔
     2.尚未安裝pymysql以及pymongodb者，請依序安裝
     3.請先在linux中的terminal輸入ifconfig找到ens32，inet就是你的ip位址，像我的是192.168.XXX.XXX。
