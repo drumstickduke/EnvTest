@@ -2,6 +2,10 @@
 To test environment about mongodb and mysql in the docker and test to connect with pymongodb and pymysql.
 
 # 基礎環境建置
+
+## 環境前提
+ * docker in linux
+ * jupyter notebook with python in windows
 ## docker-compose.yml
   * 在linux下: <br>
     1.請先建置一個資料夾，我自己是建一個叫env的資料夾，以下將以env資料夾作為範例。 <br>
